@@ -1,0 +1,7 @@
+REM Made By Kushed3d
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://youtu.be/xvFZjo5PgG0?si=OJkj1uJq-h4E_ZL2
+DELAY 200
+ENTER
